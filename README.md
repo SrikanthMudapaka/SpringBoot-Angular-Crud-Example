@@ -3,8 +3,8 @@
  SpringBoot + Angular10 CRUD operations :-> 
            The project is all about developing a spring boot CRUD application using Angular10 as a front end.
 # Angular commands :
- project creation : ng -g new projectName
+ project creation : ng -g new projectName.
 
- component creation :-> ng generate component componentName
- service creation : -> ng generate service servceName
- pipe creation : -> ng generate pipe pipeName
+ component creation :-> ng generate component componentName.
+ service creation : -> ng generate service servceName.
+ pipe creation : -> ng generate pipe pipeName.
