@@ -1,4 +1,4 @@
-# SpringBoot-Angular10-Crud-Example
+# SpringBoot-Angular10-Crud-Example using routing
 
  SpringBoot + Angular10 CRUD operations :-> 
            The project is all about developing a spring boot CRUD application using Angular10 as a front end.
