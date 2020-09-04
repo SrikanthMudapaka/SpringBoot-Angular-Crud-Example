@@ -1,6 +1,6 @@
-# SpringBoot-Angular-Crud-Example
+# SpringBoot-Angular10-Crud-Example
 
- SpringBoot + Angular CRUD operations :->
+ SpringBoot + Angular10 CRUD operations :-> the project is all about developing a spring boot CRUD application using Angular10 as a front end
 # Angular commands :
  project creation : ng -g new projectName
 
