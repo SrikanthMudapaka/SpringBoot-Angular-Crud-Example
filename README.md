@@ -7,7 +7,7 @@
 #Two-Way-Data-Binding, *nfIF,*nfFor,[ngSwitch]-*ngSwitchCase have also been implemented.
 # Angular commands :
  project creation : 
-    ng -g new projectName.
+             ng -g new projectName.
 
  component creation :->
     ng generate component componentName.
